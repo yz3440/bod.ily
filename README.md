@@ -6,9 +6,9 @@ A card game about weird things our body does.
 
 Designed by Diva Agarwal, John Chae, Salonee Gupta, Animesh Singh, Vera Wei, Yufeng Zhao. Advised by Geoff Kaufman and Erica Cruz.
 
-## Design Intention
+## About the Game
 
-[Medium Blog](https://saloneegupta.medium.com/bod-ily-9777563b196)
+[-> Medium Blog](https://saloneegupta.medium.com/bod-ily-9777563b196)
 
 ![cover](./assets/categories.png)
 
@@ -32,4 +32,4 @@ The clues will be given by acting or drawing, which integrates our previous idea
 
 ## External Links
 
-[Word Sheet](https://docs.google.com/spreadsheets/d/1R6cs4lfCzRmwc11S2CPsOnlaRJmC33d_69Y6O_rG3v4/edit?usp=sharing)
+[-> Word Sheet](https://docs.google.com/spreadsheets/d/1R6cs4lfCzRmwc11S2CPsOnlaRJmC33d_69Y6O_rG3v4/edit?usp=sharing)
