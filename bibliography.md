@@ -2,12 +2,12 @@
 
 ## Fathers’ Thoughts on Breastfeeding and Implications for a Theory‐Based Intervention
 
-- **Link:** [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0884217515312156)
+- **Citation:** Mitchell-Box, K., & Braun, K. L. (2012). _Fathers' thoughts on breastfeeding and implications for a theory-based intervention_. _Journal of Obstetric, Gynecologic, & Neonatal Nursing_, 41(6), E41-E50. [https://doi.org/10.1111/j.1552-6909.2012.01399.x](https://doi.org/10.1111/j.1552-6909.2012.01399.x)
 - **Summary:** This research paper uses semi-structured interviews to explore fathers’ thoughts on breastfeeding and suggests theory-based interventions to increase male comfort with public breastfeeding. Many fathers were uncomfortable with public breastfeeding, viewing it as immodest, but comfort levels varied based on personal background. Suggested interventions include using "behavioral capability" to increase familiarity with breastfeeding and encouraging expectant partners to communicate about breastfeeding.
 
 ## Sexual Activity During Menstruation: A Qualitative Study
 
-- **Link:** [Taylor & Francis Online](https://www.tandfonline.com/doi/abs/10.1080/00224490902878977)
+- **Citation:** Allen, K. R., & Goldberg, A. E. (2009). _Sexual Activity During Menstruation: A Qualitative Study_. _Journal of Sex Research_, 46(3), 535-545. [https://doi.org/10.1080/00224490902878977](https://doi.org/10.1080/00224490902878977)
 - **Summary:** This study examines comfort levels regarding sexual activity during menstruation. Among female participants, opinions were split, while most male participants in committed relationships were comfortable with menstrual sex. The study highlights the role of sexual experience in comfort levels and discusses women's rights to sexual satisfaction during menstruation.
 
 ## The Use and Misuse of Pleasure in Sex Education Curricula
